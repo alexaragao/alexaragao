@@ -1,0 +1,22 @@
+## I like to code.
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+
+### Technologies
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React Native](https://img.shields.io/badge/-React_Native-000?&logo=react)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
+![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-000?&logo=postgresql&logoColor=316192)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=4EA94B)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
+
+### My Stats
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaragao&theme=blue-green)
