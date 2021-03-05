@@ -9,14 +9,16 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 ### Technologies
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-000?&logo=expo)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-000?&logo=postgresql&logoColor=316192)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=4EA94B)
-![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FFFFFF)
 
 ### My Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaragao&theme=blue-green)
