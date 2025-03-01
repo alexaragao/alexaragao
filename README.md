@@ -22,6 +22,7 @@ _When I was a boy, I dreamt of sitting at a computer, observing a program that w
 ![TypeScript](https://img.shields.io/badge/-TypeScript-151515?&style=for-the-badge&logo=TypeScript)
 ![C#](https://img.shields.io/badge/-C%23-151515?&style=for-the-badge&logo=c%23)
 ![Java](https://img.shields.io/badge/-Java-151515?&style=for-the-badge&logo=OpenJDK)
+![Kotlin](https://img.shields.io/badge/-Kotlin-151515?&style=for-the-badge&logo=Kotlin)
 
 #### My Top Frontend Technologies
 ![HTML](https://img.shields.io/badge/-HTML-151515?&style=for-the-badge&logo=html5)
@@ -31,6 +32,7 @@ _When I was a boy, I dreamt of sitting at a computer, observing a program that w
 ![Next.Js](https://img.shields.io/badge/-Next.Js-151515?&style=for-the-badge&logo=next.js)
 ![Android](https://img.shields.io/badge/-Android-151515?&style=for-the-badge&logo=android)
 ![Unity](https://img.shields.io/badge/-Unity-151515?&style=for-the-badge&logo=unity)
+![Kotlin Multiplatform](https://img.shields.io/badge/-Kotlin_Multiplatform-151515?&style=for-the-badge&logo=Kotlin)
 
 #### My Top Backend Technologies
 ![Node.js](https://img.shields.io/badge/-Node.js-151515?&style=for-the-badge&logo=node.js)
@@ -39,6 +41,7 @@ _When I was a boy, I dreamt of sitting at a computer, observing a program that w
 ![Firebase](https://img.shields.io/badge/-Firebase-151515?&style=for-the-badge&logo=firebase)
 ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-151515?&style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-151515?&style=for-the-badge&logo=mongodb)
+![Spring Boot](https://img.shields.io/badge/-Sprint_Boot-151515?&style=for-the-badge&logo=springboot)
 
 ### About Myself
 
