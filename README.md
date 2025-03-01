@@ -41,7 +41,7 @@ _When I was a boy, I dreamt of sitting at a computer, observing a program that w
 ![Firebase](https://img.shields.io/badge/-Firebase-151515?&style=for-the-badge&logo=firebase)
 ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-151515?&style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-151515?&style=for-the-badge&logo=mongodb)
-![Spring Boot](https://img.shields.io/badge/-Sprint_Boot-151515?&style=for-the-badge&logo=springboot)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-151515?&style=for-the-badge&logo=springboot)
 
 ### About Myself
 
